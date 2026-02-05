@@ -1562,6 +1562,7 @@
 - [Daniel Ndirangu](https://github.com/daniel-ndirangu)
 - [Gyanavardhan](https://github.com/gyanavardhana)
 - [Sourav Sathyan](https://github.com/souravsathyan)
+- [Ishan Sood](https://github.com/Ishannsood)
 - [tharendra](https://github.com/tharendra)
 - [Ananya Sihag](https://github.com/ananyasihag)
 - [Aaron Sanchez](https://github.com/aaron-ross-sanchez)
