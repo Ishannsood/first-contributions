@@ -554,6 +554,7 @@
 - [sadiqhero](https://github.com/sadiqhero)
 - [Caroline](https://github.com/perrywinkle2004)
 - [Victor Muthii](https://github.com/muthii-10)
+- [Ishan Sood](https://github.com/Ishannsood)
 - [AkramMohammad](https://github.com/Akram1806)
 - [Mangelib](https://github.com/mangelib)
 - [Imam](https://github.com/Shaik-36)
